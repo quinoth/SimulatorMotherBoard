@@ -21,3 +21,4 @@
 9) Кварцевый резонатор
 10) Кнопка включения/перезагрузки
 11) CPU
+![motherboard](https://github.com/quinoth/SimulatorMotherBoard/assets/148634565/84c2fb75-810a-40a1-bbe1-f799d4366923)
